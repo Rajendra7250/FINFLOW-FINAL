@@ -143,12 +143,10 @@ Invoice (PDF/Image)
 
 Built with ❤️ by CSE students from **KLS VDIT College, Haliyal** at the **Wave Hackathon**.
 
-| Name |
-|------|
-| Rajendra Ala Shridhar |
-| *(Add teammate names here)* |
-
----
+| Rajendra M Madival |
+| Nikhil Hatti |
+| Sai prasad Ekabote |
+| Mukesh Ghanchi |
 
 ## 🏆 Hackathon
 
