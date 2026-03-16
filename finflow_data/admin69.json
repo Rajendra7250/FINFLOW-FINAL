@@ -1,0 +1,38 @@
+{
+  "purchase_register": [
+    {
+      "ID": "PUR-260315-0002",
+      "Date": "10-03-2025",
+      "Vendor": "Udupi Agro Supplies",
+      "GSTIN": "29AAAAA1111B1Z1",
+      "Category": "Goods",
+      "Subtotal": 102000.0,
+      "CGST": 2775.0,
+      "SGST": 2775.0,
+      "IGST": 0.0,
+      "Total": 107550.0,
+      "Status": "Verified"
+    }
+  ],
+  "sales_register": [
+    {
+      "ID": "SAL-260315-0001",
+      "Date": "12-03-2025",
+      "Vendor": "Hubli Softdrinks Pvt Ltd",
+      "GSTIN": "29BDDDD5555C1Z2",
+      "Category": "Goods",
+      "Subtotal": 131800.0,
+      "CGST": 3295.0,
+      "SGST": 3295.0,
+      "IGST": 0.0,
+      "Total": 138390.0,
+      "Status": "Verified"
+    }
+  ],
+  "gstr2a_data": [],
+  "counter": 3,
+  "my_gstin": "29AAAAA1111B1Z1",
+  "my_name": "Sai Coffee Traders",
+  "my_city": "Dharwad",
+  "my_state": "Karnataka"
+}

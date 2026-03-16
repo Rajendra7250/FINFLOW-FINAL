@@ -1,0 +1,27 @@
+{
+  "admin": {
+    "password": "Admin@123",
+    "name": "Admin User",
+    "color": "#00E5A0"
+  },
+  "new": {
+    "password": "Wave-72",
+    "name": "Rajendra",
+    "color": "#00E5A0"
+  },
+  "admin69": {
+    "password": "Abc@123",
+    "name": "Rajendra",
+    "color": "#00E5A0"
+  },
+  "shruti": {
+    "password": "Shru@123",
+    "name": "Shruti Madival",
+    "color": "#00E5A0"
+  },
+  "rajendra": {
+    "password": "Abc@123",
+    "name": "madival",
+    "color": "#00E5A0"
+  }
+}

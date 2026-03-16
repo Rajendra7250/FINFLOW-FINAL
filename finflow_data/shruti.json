@@ -1,0 +1,24 @@
+{
+  "purchase_register": [
+    {
+      "ID": "PUR-260315-0001",
+      "Date": "10-03-2025",
+      "Vendor": "Mysore Agro Supplies",
+      "GSTIN": "29MSAGR1234A1Z5",
+      "Category": "Goods",
+      "Subtotal": 102000.0,
+      "CGST": 2550.0,
+      "SGST": 2550.0,
+      "IGST": 0.0,
+      "Total": 107100.0,
+      "Status": "Verified"
+    }
+  ],
+  "sales_register": [],
+  "gstr2a_data": [],
+  "counter": 2,
+  "my_gstin": "29AAAAA1111B1Z1",
+  "my_name": "Sai Coffee Traders",
+  "my_city": "Dharwad",
+  "my_state": "Karnataka"
+}
