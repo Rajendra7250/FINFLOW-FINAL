@@ -158,17 +158,6 @@ Built with ❤️ by CSE students from **KLS VDIT College, Haliyal** at the **Wa
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] Hash passwords (bcrypt) instead of plain text storage
-- [ ] Split `app.py` into modules (auth, ocr, reports, ui)
-- [ ] Replace regex OCR parsing with AI-based invoice extraction
-- [ ] SQLite database instead of flat JSON files
-- [ ] Deploy on Streamlit Cloud
-- [ ] Export GSTR reports as PDF
-- [ ] Mobile responsive design
-- [ ] Email alerts for GST filing deadlines
-
 ---
 
 ## 📄 License
